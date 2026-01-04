@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "福笑い",
+  "base_artist": "Yu Takahashi",
+  "createdAt": "2026-01-04T11:19:33.485047Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "福笑い",
+      "artist": "Yu Takahashi",
+      "has_synced": false,
+      "path": "select/01_福笑い_Yu_Takahashi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "福笑い",
+      "artist": "高橋優",
+      "has_synced": false,
+      "path": "select/02_福笑い_高橋優.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "福笑い",
+      "artist": "Yu Takahashi",
+      "has_synced": true,
+      "path": "select/03_福笑い_Yu_Takahashi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "福笑い",
+      "artist": "高橋優",
+      "has_synced": false,
+      "path": "select/04_福笑い_高橋優.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "福笑い - fukuwarai",
+      "artist": "Yu Takahashi",
+      "has_synced": true,
+      "path": "select/05_福笑い_-_fukuwarai_Yu_Takahashi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "福笑い",
+      "artist": "高橋優",
+      "has_synced": true,
+      "path": "select/06_福笑い_高橋優.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "福笑い",
+      "artist": "高橋 優",
+      "has_synced": false,
+      "path": "select/pl_01_福笑い_高橋_優.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "福笑い",
+      "artist": "高橋 優",
+      "has_synced": false,
+      "path": "select/pl_02_福笑い_高橋_優.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "福笑い",
+      "artist": "高橋 優",
+      "has_synced": false,
+      "path": "select/pl_03_福笑い_高橋_優.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "福笑い",
+      "artist": "高橋 優",
+      "has_synced": false,
+      "path": "select/pl_04_福笑い_高橋_優.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "福笑い",
+      "artist": "高橋 優",
+      "has_synced": false,
+      "path": "select/pl_05_福笑い_高橋_優.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "福笑い",
+      "artist": "高橋 優",
+      "has_synced": false,
+      "path": "select/pl_06_福笑い_高橋_優.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "福笑い",
+      "artist": "高橋 優",
+      "has_synced": false,
+      "path": "select/pl_07_福笑い_高橋_優.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "福笑い",
+      "artist": "高橋 優",
+      "has_synced": false,
+      "path": "select/pl_08_福笑い_高橋_優.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "福笑い",
+      "artist": "高橋 優",
+      "has_synced": false,
+      "path": "select/pl_09_福笑い_高橋_優.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "福笑い (ピアノヴァージョン)",
+      "artist": "高橋 優",
+      "has_synced": false,
+      "path": "select/pl_10_福笑い_(ピアノヴァージョン)_高橋_優.txt"
+    }
+  ]
+}
